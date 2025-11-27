@@ -102,13 +102,13 @@ export default function DemographicCard() {
                 width={48}
                 height={48}
                 className="w-full"
-                src="/images/country/country-02.svg"
-                alt="france"
+                src="/images/country/germany.svg"
+                alt="Germany"
               />
             </div>
             <div>
               <p className="font-semibold text-gray-800 text-theme-sm dark:text-white/90">
-                France
+                Germany
               </p>
               <span className="block text-gray-500 text-theme-xs dark:text-gray-400">
                 589 Customers
